@@ -11,5 +11,3 @@ def maxArea( height):
     return max_area
 
 print(maxArea([1,2,3]))
-
-//test
