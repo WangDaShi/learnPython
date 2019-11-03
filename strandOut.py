@@ -13,7 +13,6 @@ def getTable(pattern):
         else:
             j = table[j]
     return table
-
+# test
 table = getTable('ababcedab')
 print(table)
-//test
