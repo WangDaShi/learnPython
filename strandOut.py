@@ -1,7 +1,7 @@
 def println(str):{
     print(str)
 }
-
+# 汉字乱码？
 def getTable(pattern):
     table = [-1]*len(pattern)
     i,j = 0,1
