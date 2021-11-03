@@ -9,7 +9,7 @@ class C(A):
 
 # our code 
 class M:
-    total = 0
+    total = 4
     def print_total(self):
         print(self.total)
 
