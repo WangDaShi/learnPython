@@ -4,3 +4,6 @@ def aaa(name):
 
 
 # this is a test
+
+def c(str):
+    return str;
